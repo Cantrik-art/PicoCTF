@@ -32,11 +32,11 @@ def hacker_terminal():
         typing_effect(".", 0.5)
 
     # Menampilkan teks besar "hacker terminal"
-    ascii_banner = pyfiglet.figlet_format("hacker terminal")
+    ascii_banner = pyfiglet.figlet_format("Cantrik Art")
     print("\033[92m" + ascii_banner)  # Teks hijau besar
 
     # Efek huruf acak jatuh seperti Matrix
-    typing_effect("Starting Matrix Effect...")
+    typing_effect("Starting To picoCTF...")
     time.sleep(1)
     matrix_effect()
 
