@@ -1,0 +1,46 @@
+Template Kdenlive Opening Playlist picoCTF
+
+1️⃣ Struktur Timeline Kdenlive
+
+Track 1 (Video): Background terminal/hacking (bisa dari OBS recording)
+
+Track 2 (Teks & Animasi): Efek glitch teks, logo Cantrik Art
+
+Track 3 (Overlay/Stock Video): Efek kode berjalan atau efek hacking
+
+Track 4 (Audio): Voice-over + efek suara hacking (beep, glitch, typing, dll.)
+
+2️⃣ Elemen yang Digunakan
+
+✅ Efek Teks Glitch: Bisa dibuat dengan Typewriter Effect + Glitch (RGB Shift)
+✅ Efek Terminal: Overlay video terminal command (rekam dari OBS atau gunakan efek kode berjalan)
+✅ Transisi Cepat: Gunakan Composition - Wipe (Glitch Style) atau Hard Cut
+✅ Background Music Cyber/Hacking: Bebas copyright, bisa dari Pixabay atau Free Music Archive
+
+3️⃣ Panduan Editing di Kdenlive
+
+Buka Kdenlive dan buat project baru (1920x1080, 30fps/60fps)
+
+Tambahkan Video Rekaman Terminal (OBS) di Track 1
+
+Tambahkan Teks "picoCTF" + Glitch Effect di Track 2
+
+Gunakan Keyframe untuk Efek Glitch pada Teks
+
+Masukkan Narasi Voice-over ke Track 4 (Gunakan Fade-in/Fade-out)
+
+Tambahkan Efek Suara (Typing, Beep, Glitch) untuk menambah nuansa hacking
+
+Render Video dengan Format MP4 (H.264, High Quality)
+
+4️⃣ Naskah Narasi untuk Voice-over
+
+🎤 "Selamat datang di playlist picoCTF! Di sini, kita akan belajar dunia keamanan siber, memecahkan kode, dan menaklukkan tantangan CTF. Bersiaplah untuk berpikir seperti seorang hacker dan menguasai teknik-teknik cyber warrior! Mulai dari reverse engineering, cryptography, forensik, hingga web exploitation—semuanya ada di sini. Jangan lewatkan setiap tantangan, dan pastikan kamu siap untuk menghadapi dunia cybersecurity! Subscribe sekarang dan jadilah bagian dari komunitas hacker etis!"
+
+5️⃣ Call-to-Action (Outro Video)
+
+Tampilkan teks "Subscribe & Join the Cyber Challenge!" dengan efek glitch
+
+Fade-out dengan suara hacking beep
+
+Dengan template ini, kamu bisa langsung edit di Kdenlive dan menyesuaikan efek sesuai kebutuhan! 🎬🔥 Jika ada yang perlu diperbaiki atau ditambah, tinggal update aja!

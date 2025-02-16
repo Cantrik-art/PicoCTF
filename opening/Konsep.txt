@@ -1,0 +1,55 @@
+🎬 Konsep Video Opening Playlist picoCTF (60 detik)
+📌 Struktur Video:
+1️⃣ [0 - 5s] Opening Glitch Effect
+
+Logo Cantrik Art muncul dengan efek glitch & noise.
+Teks "Initializing picoCTF Playlist..." di layar terminal.
+Suara beep dan typing effect.
+2️⃣ [5 - 15s] Terminal Hacking Animation
+
+Simulasi hacker mengetik di terminal, muncul teks seperti:
+arduino
+Salin
+Edit
+Connecting to picoCTF Server...
+Access Granted
+Loading Challenges...
+Background animasi kode berjalan cepat (OBS screen recording bisa dipakai).
+3️⃣ [15 - 30s] Narasi Intro & Cuplikan
+
+Tampilkan hacking-related visuals:
+✅ Capture the Flag (CTF) Logo
+✅ Cybersecurity Icons
+✅ Terminal Commands Animasi
+Voice-over Narasi:
+"Selamat datang di playlist picoCTF! Di sini, kita akan belajar dunia keamanan siber, memecahkan kode, dan menaklukkan tantangan CTF. Bersiaplah untuk berpikir seperti seorang hacker dan menguasai teknik-teknik cyber warrior!"
+
+4️⃣ [30 - 45s] Preview Materi picoCTF
+
+Cuplikan challenge picoCTF (rekam OBS saat bermain).
+Overlay teks:
+🔹 "Reverse Engineering"
+🔹 "Forensics"
+🔹 "Cryptography"
+🔹 "Web Exploitation"
+5️⃣ [45 - 55s] Call to Action
+
+Efek glitch kembali.
+Teks: "Subscribe & Join the Cyber Challenge!"
+Logo Cantrik Art dengan efek terminal (Access Granted).
+6️⃣ [55 - 60s] Outro
+
+Efek fade out dengan suara hacking beep.
+🎤 Naskah Narasi Lengkap:
+"Selamat datang di playlist picoCTF! Di sini, kita akan belajar dunia keamanan siber, memecahkan kode, dan menaklukkan tantangan CTF. Bersiaplah untuk berpikir seperti seorang hacker dan menguasai teknik-teknik cyber warrior! Mulai dari reverse engineering, cryptography, forensik, hingga web exploitation—semuanya ada di sini. Jangan lewatkan setiap tantangan, dan pastikan kamu siap untuk menghadapi dunia cybersecurity! Subscribe sekarang dan jadilah bagian dari komunitas hacker etis!"
+
+🔧 Eksekusi di Kdenlive & OBS:
+✅ Gunakan OBS untuk merekam:
+
+Simulasi terminal hacking (pakai command fake, misalnya cmatrix)
+Cuplikan bermain picoCTF
+✅ Gunakan Kdenlive untuk edit:
+
+Tambahkan efek glitch & glitch audio
+Gunakan keyframe untuk teks & animasi
+Background music cyberpunk/hacking (bebas copyright)
